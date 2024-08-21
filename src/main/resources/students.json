@@ -1,0 +1,14 @@
+{
+  "1": {
+    "studentId": 1,
+    "name": "Ekta Nandwani",
+    "age": 28,
+    "major": "Computer Science"
+  },
+  "2": {
+    "studentId": 2,
+    "name": "John Doe",
+    "age": 27,
+    "major": "Mathematics"
+  }
+}
